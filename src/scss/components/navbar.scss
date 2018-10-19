@@ -1,0 +1,19 @@
+.navbar-left {
+
+  .nav-link {
+    color: #9a9a9a;
+    font-weight: bold;
+
+    &:hover {
+      color: #cfcfcf;
+    }
+  }
+
+  .active-item-menu {
+    color: #ffffff;
+
+    &:hover {
+      color: #ffffff;
+    }
+  }
+}
